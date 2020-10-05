@@ -11,6 +11,7 @@ function App(props) {
 	//DO NOT TOUCH THAT
 	useRenderMeter(appRenderMeterState);
 	// ---------------------------------------------
+	
 	return (
 		<div className="app">
 			<header className="app__header">
