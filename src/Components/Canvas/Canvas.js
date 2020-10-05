@@ -14,7 +14,6 @@ function Canvas() {
 	// ---------------------------------------------
 	const backGroundColor = useRecoilValue(canvasBackgroundColorState)
 	const rectanglesArray = useRecoilValue(rectangleIdArrayState);
-	// console.log(rectanglesArray);
 	return (
 		<div
 			className="canvas"

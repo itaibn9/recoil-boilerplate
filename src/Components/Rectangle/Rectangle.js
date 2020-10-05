@@ -12,7 +12,6 @@ function Rectangle({id}) {
 		width:`${rectAtom.width}px`,
 		height:`${rectAtom.height}px`,
 		backgroundColor:rectAtom.color}}>
-
 		</div>;
 }
 
